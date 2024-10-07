@@ -30,7 +30,7 @@ Screenshots:
 
 Installation:
 
-	1.	Clone the repository: git clone https://github.com/Sonuuu02/quizo-app.git
+ 1.     Clone the repository: git clone https://github.com/Sonuuu02/quizo-app.git
  2.	Open the project in Android Studio.
  3.	Connect the app to your Firebase project.
  4.	Run the app on your emulator or physical device.
